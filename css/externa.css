@@ -93,11 +93,10 @@ contenido: "."; display: block; height: 0; clear: both; visibility: hidden;
 
 
 .principal {
-	xxposition: relative;
+
 	padding-bottom: 1em;
 	border-bottom: solid 1px rgba(255,255,255,.5);
-	xxoverflow:hidden;
-	xxmin-height: 300px;
+
 }
 
 .principal h1 {
